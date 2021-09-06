@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import Table from "./Table";
-import Chart from "./Chart";
+import Table from "../src/components/table/Table";
+import Chart from "../src/components/chart/Chart";
 
 const App = () => {
   return (
